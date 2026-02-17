@@ -1,6 +1,4 @@
-// --- 1. DATA (Simulates products.js) ---
 export const initialProducts = [
-    // Realistic Image URLs for Phone (Dark)
     {
         id: 101,
         name: "MackBook Air - M4 Black",
@@ -10,7 +8,6 @@ export const initialProducts = [
             "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
         category: "Laptop",
     },
-    // Realistic Image URLs for Laptop (Silver)
     {
         id: 102,
         name: "MackBook Air - M4 Golden",
@@ -20,7 +17,6 @@ export const initialProducts = [
             "Powerful and portable, featuring a 14-inch edge-to-edge display and latest CPU.",
         category: "Laptop",
     },
-    // Realistic Image URLs for Tablet (with stylus)
     {
         id: 103,
         name: "iphone 17 pro max",
@@ -30,7 +26,6 @@ export const initialProducts = [
             "Vibrant 10-inch display for media consumption and light productivity tasks.",
         category: "Phone",
     },
-    // Realistic Image URLs for Camera (Mirrorless)
     {
         id: 401,
         name: "iphone 17 air Silver",
@@ -40,7 +35,6 @@ export const initialProducts = [
             "Capture stunning photos and 4K videos with professional-grade performance.",
         category: "Phone",
     },
-    // Realistic Image URLs for Phone (Light/Older Model)
     {
         id: 501,
         name: "iphone 17 pro max Gold",
@@ -50,7 +44,6 @@ export const initialProducts = [
             "An affordable, feature-packed phone with a secure biometric sensor.",
         category: "Phone",
     },
-    // Realistic Image URLs for Laptop (Chromebook)
     {
         id: 609,
         name: "HP Pavilion Plus, Intel Core i5-1335U-13th Gen Laptop, (16GB LPDDR5x,512GB SSD),IPS",
@@ -151,5 +144,4 @@ export const initialProducts = [
             "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
         category: "Laptop",
     },
-
 ];
